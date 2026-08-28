@@ -1,0 +1,199 @@
+#EXTM3U
+#EXTINF:-1 ,T Sports
+http://103.185.24.134:3001/TSportsHD/index.m3u8
+#EXTINF:-1 ,STAR MOVIES SELECT HD (Sun Direct TV)
+http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/index.m3u8
+#EXTINF:-1 ,SONY SPORTS TEN 3 HD
+http://103.185.24.134:3001/SONY-SPORTS3/index.m3u8
+#EXTINF:-1 ,STAR MOVIES HD (Sun Direct TV)
+http://103.185.24.134:3001/Star-Movies/index.m3u8
+#EXTINF:-1 ,WWE
+http://103.185.24.134:3001/SonyTenSports1/index.m3u8
+#EXTINF:-1 ,SONY BBC EARTH HD
+http://103.185.24.134:3001/SONY-BBC/index.m3u8
+#EXTINF:-1 ,SONY SPORTS TEN 4 TAMIL
+http://103.185.24.134:3001/SONY-SPORTS4/index.m3u8
+#EXTINF:-1 ,SONY SPORTS TEN 5 HD
+http://103.185.24.134:3001/SONY-SPORTS.5HD/index.m3u8
+#EXTINF:-1 ,Star Movies
+http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
+http://103.185.24.134:3001/NATGEO-HD/index.m3u8
+#EXTINF:-1 ,Lotus Macau
+http://103.185.24.134:3001/Lotus-TV-HD/index.m3u8
+#EXTINF:-1 ,http://103.185.24.134:3001/
+http://103.185.24.134:3001/tapmad_combo/index.m3u8
+#EXTINF:-1 ,Star Movies Select
+http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,CH A00B
+http://202.70.146.135:8000/play/a00b/index.m3u8
+#EXTINF:-1 ,CH A057
+http://202.70.146.135:8000/play/a057/index.m3u8
+#EXTINF:-1 ,Star Sports 1 HD
+http://202.70.146.135:8000/play/a00a/index.m3u8
+#EXTINF:-1 ,Discovery HD
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 ,Sony Pix HD
+http://202.70.146.135:8000/play/a06p/index.m3u8
+#EXTINF:-1 ,CH A025
+http://202.70.146.135:8000/play/a025/index.m3u8
+#EXTINF:-1 ,CH A04P
+http://202.70.146.135:8000/play/a04p/index.m3u8
+#EXTINF:-1 ,CH A02T
+http://202.70.146.135:8000/play/a02t/index.m3u8
+#EXTINF:-1 ,CH A02D
+http://202.70.146.135:8000/play/a02d/index.m3u8
+#EXTINF:-1 ,CH A06B
+http://202.70.146.135:8000/play/a06b/index.m3u8
+#EXTINF:-1 ,CH A01E
+http://202.70.146.135:8000/play/a01e/index.m3u8
+#EXTINF:-1 ,CH A04N
+http://202.70.146.135:8000/play/a04n/index.m3u8
+#EXTINF:-1 ,MNX HD
+http://202.70.146.135:8000/play/a052/index.m3u8
+#EXTINF:-1 ,CH A05I
+http://202.70.146.135:8000/play/a05i/index.m3u8
+#EXTINF:-1 ,Discovery Turbo
+http://202.70.146.135:8000/play/a050/index.m3u8
+#EXTINF:-1 ,CH A126
+http://202.70.146.135:8000/play/a126/index.m3u8
+#EXTINF:-1 ,Cartoon Network Marathi
+http://202.70.146.135:8000/play/a060/index.m3u8
+#EXTINF:-1 ,National Geographic HD
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1 ,Nick Junior
+http://202.70.146.135:8000/play/a02n/index.m3u8
+#EXTINF:-1 ,CH A044
+http://202.70.146.135:8000/play/a044/index.m3u8
+#EXTINF:-1 ,Colors Cineplex Bollywood
+http://202.70.146.135:8000/play/a058/index.m3u8
+#EXTINF:-1 ,CH A05X
+http://202.70.146.135:8000/play/a05x/index.m3u8
+#EXTINF:-1 ,Eurosport HD
+http://202.70.146.135:8000/play/a05s/index.m3u8
+#EXTINF:-1 ,CH A009
+http://202.70.146.135:8000/play/a009/index.m3u8
+#EXTINF:-1 ,SET HD
+http://202.70.146.135:8000/play/a005/index.m3u8
+#EXTINF:-1 ,Star Gold 2 HD
+http://202.70.146.135:8000/play/a04q/index.m3u8
+#EXTINF:-1 ,CH A01Q
+http://202.70.146.135:8000/play/a01q/index.m3u8
+#EXTINF:-1 ,CH A02A
+http://202.70.146.135:8000/play/a02a/index.m3u8
+#EXTINF:-1 ,Sony BBC Earth HD English
+http://202.70.146.135:8000/play/a067/index.m3u8
+#EXTINF:-1 ,7. Nick
+http://202.70.146.135:8000/play/a04c/index.m3u8
+#EXTINF:-1 ,History TV18 HD
+http://202.70.146.135:8000/play/a065/index.m3u8
+#EXTINF:-1 ,Star Gold Select HD
+http://202.70.146.135:8000/play/a068/index.m3u8
+#EXTINF:-1 ,CH A06Q
+http://202.70.146.135:8000/play/a06q/index.m3u8
+#EXTINF:-1 ,CH A01G
+http://202.70.146.135:8000/play/a01g/index.m3u8
+#EXTINF:-1 ,CH A024
+http://202.70.146.135:8000/play/a024/index.m3u8
+#EXTINF:-1 ,CH A125
+http://202.70.146.135:8000/play/a125/index.m3u8
+#EXTINF:-1 ,CH A04O
+http://202.70.146.135:8000/play/a04o/index.m3u8
+#EXTINF:-1 ,CH A06C
+http://202.70.146.135:8000/play/a06c/index.m3u8
+#EXTINF:-1 ,Star Sports 2 Tamil
+http://202.70.146.135:8000/play/a026/index.m3u8
+#EXTINF:-1 ,Star Movies HD
+http://202.70.146.135:8000/play/a06r/index.m3u8
+#EXTINF:-1 ,Nat Geo Wild HD
+http://202.70.146.135:8000/play/a05j/index.m3u8
+#EXTINF:-1 ,Discovery HD Hindi
+http://202.70.146.135:8000/play/a05z/index.m3u8```
+#EXTINF:-1 ,Star Gold HD
+http://66.102.126.10:8000/play/a00f/index.m3u8
+#EXTINF:-1 ,A Sports
+http://66.102.126.10:8000/play/a032/index.m3u8
+#EXTINF:-1 ,Star Sports 1 HD
+http://66.102.126.10:8000/play/a009/index.m3u8
+#EXTINF:-1 ,FIFA World Cup 2026 🇮🇳[coming]
+http://66.102.126.10:8000/play/a076/index.m3u8
+#EXTINF:-1 ,SONY SPORTS 5 HD
+http://66.102.126.10:8000/play/a010/index.m3u8
+#EXTINF:-1 ,Disney Channel HD
+http://66.102.126.10:8000/play/a013/index.m3u8
+#EXTINF:-1 ,Star Gold 2 HD
+http://66.102.126.10:8000/play/a077/index.m3u8
+#EXTINF:-1 ,Unite8 Sports 2 HD
+http://66.102.126.10:8000/play/a01v/index.m3u8
+#EXTINF:-1 ,TravelXP HD
+http://66.102.126.10:8000/play/a075/index.m3u8
+#EXTINF:-1 ,Sony Sports 2 HD
+http://66.102.126.10:8000/play/a01y/index.m3u8
+#EXTINF:-1 ,SONY TEN CRICKET
+http://66.102.126.10:8000/play/a018/index.m3u8
+#EXTINF:-1 ,Star Movies Select HD
+http://66.102.126.10:8000/play/a021/index.m3u8
+#EXTINF:-1 ,KSA Sports 1
+http://66.102.126.10:8000/play/a03o/index.m3u8
+#EXTINF:-1 ,DisneyP International HD
+http://66.102.126.10:8000/play/a078/index.m3u8
+#EXTINF:-1 ,Star Select 1 HD
+http://66.102.126.10:8000/play/a06x/index.m3u8
+#EXTINF:-1 ,Gem TV+
+http://66.102.126.10:8000/play/a045/index.m3u8
+#EXTINF:-1 ,STAR GOLD ROMANCE
+http://66.102.126.10:8000/play/a00r/index.m3u8
+#EXTINF:-1 ,StarPlus HD
+http://66.102.126.10:8000/play/a008/index.m3u8
+#EXTINF:-1 ,Gem Entertainment
+http://66.102.126.10:8000/play/a041/index.m3u8
+#EXTINF:-1 ,Star Gold Select HD
+http://66.102.126.10:8000/play/a01s/index.m3u8
+#EXTINF:-1 ,Star Movies Select HD
+http://66.102.126.10:8000/play/a020/index.m3u8
+#EXTINF:-1 ,Geo News
+http://66.102.126.10:8000/play/a05w/index.m3u8
+#EXTINF:-1 ,Sony Sports 3 HD
+http://66.102.126.10:8000/play/a024/index.m3u8
+#EXTINF:-1 ,Sony Sports 1 HD
+http://66.102.126.10:8000/play/a00o/index.m3u8
+#EXTINF:-1 ,Gem Comedy
+http://66.102.126.10:8000/play/a049/index.m3u8
+#EXTINF:-1 ,Star Sports 3
+http://66.102.126.10:8000/play/a00k/index.m3u8
+#EXTINF:-1 ,Gem Documentary [1080p]
+http://66.102.126.10:8000/play/a042/index.m3u8
+#EXTINF:-1 ,Geo Super HD
+http://66.102.126.10:8000/play/a063/index.m3u8
+#EXTINF:-1 ,ARY Zindagi
+http://66.102.126.10:8000/play/a031/index.m3u8
+#EXTINF:-1 ,Discovery Science
+http://66.102.126.10:8000/play/a01l/index.m3u8
+#EXTINF:-1 ,Colors INFINITY HD
+http://66.102.126.10:8000/play/a014/index.m3u8
+#EXTINF:-1 ,ARY Q TV
+http://66.102.126.10:8000/play/a019/index.m3u8
+#EXTINF:-1 ,STAR GOLD THRILLS
+http://66.102.126.10:8000/play/a00c/index.m3u8
+#EXTINF:-1 ,Saudi Quran TV
+http://66.102.126.10:8000/play/a03m/index.m3u8
+#EXTINF:-1 ,ARY Digital HD
+http://66.102.126.10:8000/play/a030/index.m3u8
+#EXTINF:-1 ,Discovery TURBO [576p]
+http://66.102.126.10:8000/play/a016/index.m3u8
+#EXTINF:-1 ,Star Gold 2 SD
+http://66.102.126.10:8000/play/a00g/index.m3u8
+#EXTINF:-1 ,Star Sports 1 Hindi
+http://66.102.126.10:8000/play/a00i/index.m3u8
+#EXTINF:-1 ,Sony Entertainment HD
+http://66.102.126.10:8000/play/a005/index.m3u8
+#EXTINF:-1 ,Animal Planet HD
+http://66.102.126.10:8000/play/a001/index.m3u8
+#EXTINF:-1 ,ARY Musik
+http://66.102.126.10:8000/play/a036/index.m3u8
+#EXTINF:-1 ,PTV Sports
+http://66.102.126.10:8000/play/a04w/index.m3u8
+#EXTINF:-1 ,Saudi Sunnah TV
+http://66.102.126.10:8000/play/a03n/index.m3u8
+#EXTINF:-1 ,Unite8 Sports 2
+http://66.102.126.10:8000/play/a076/index.m3u8```
